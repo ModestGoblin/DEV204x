@@ -2,12 +2,12 @@
 
 [Module One Assignment](/ModuleOneAssignment)
 
-[Module Two Assignment](../blob/master/ModuleTwoAssignment)
+[Module Two Assignment](/ModuleTwoAssignment)
 
-[Module Three Assignment](../blob/master/ModuleThreeAssignment)
+[Module Three Assignment](/ModuleThreeAssignment)
 
-[Module Five Assignment](../blob/master/ModuleFiveAssignment)
+[Module Five Assignment](/ModuleFiveAssignment)
 
-[Module Six Assignment](../blob/master/ModuleSixAssignment)
+[Module Six Assignment](/ModuleSixAssignment)
 
-[Module Seven Assignment](../blob/master/ModuleSevenAssignment)
+[Module Seven Assignment](/ModuleSevenAssignment)
