@@ -1,6 +1,6 @@
 ## DEV204x
 
-[Module One Assignment](../blob/master/ModuleOneAssignment)
+[Module One Assignment](/tree/master/ModuleOneAssignment)
 
 [Module Two Assignment](../blob/master/ModuleTwoAssignment)
 
