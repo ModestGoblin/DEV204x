@@ -11,7 +11,7 @@ class Program
 static void Main(string[] args)
 {
 //Student information:
-string first_Name = "Thomas";
+string first_Name = "ModestGoblin";
 string last_Name = "N/A";
 DateTime birth_date = new DateTime(5, 10, 1994);
 string address_Line1 = "N/A";
